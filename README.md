@@ -39,18 +39,18 @@ marymc13
 ## Github Link:
 https://github.com/marymc13
 
+## Github Repository
+https://github.com/marymc13/book-find.git
+
+## Deployed Link
+https://hidden-tor-36013.herokuapp.com/
+
+
 ## Email:
 marymc135@hotmail.com
 
 Copyright 2022 by marymc13
 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
