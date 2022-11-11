@@ -1,61 +1,49 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
-In the project directory, you can run:
+## Project Name:
+Book-Find
 
-### `yarn start`
+## Table of Contents
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributions](#contributions)
+* [Test](#test)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Description:
+This is an application to allow a user to use the Google Books API to search and save books to their accounts once they are logged in.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Installation:
+This application was built using the Mern Stack.  This application runs with Express.js, React.js, Node, Mand MongoDB.
 
-### `yarn test`
+## Usage:
+This project can be used to save and search for books that the user is interestded in exploring.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## License:
+[MIT License] (https://choosealicense.com/mit/)
 
-### `yarn build`
+## Contributions:
+If someone would like to contribute to this project, please econtact me at the email below.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Test:
+Clone this application and run npm install to test the app.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## Repository:
+book-find
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Github Username:
+marymc13
 
-### `yarn eject`
+## Github Link:
+https://github.com/marymc13
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Email:
+marymc135@hotmail.com
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Copyright 2022 by marymc13
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 

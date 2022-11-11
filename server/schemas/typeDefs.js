@@ -20,11 +20,6 @@ type User {
     title: String!
   }
 
-  type Auth {
-    token: ID!
-    user: User
-  }
-
   input BookInput {
     authors: [String]
     description: String!
@@ -37,6 +32,11 @@ type User {
   type Query {
     me: User
   }
+
+  type Auth {
+    token: ID!
+    user: User
+}
 
   type Mutation {
     login(email: String!, password: String!): Auth
